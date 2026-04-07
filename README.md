@@ -1,5 +1,11 @@
 ## Hi there 👋
 ## BTech_cse_student
+
+"Time is free, but its priceless.
+  You can't own it, but you can use it, 
+  You can use it, but you can't keep it,
+  You can't keep it, but you can spend it.
+  Once you have lost it you can never get it back."
 <!--
 **rnjosh07/rnjosh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
