@@ -1,5 +1,7 @@
 ## Hi there 👋
-## BTech_cse_student
+## BTech (CSE) @ Amity University Bengaluru &
+## BS Data Science & Applications @ IIT Madras
+## Student (2025 - 2029)
 
 "Time is free, but its priceless.
   You can't own it, but you can use it, 
